@@ -1,7 +1,7 @@
 # Hi, I'm Rinku Patel 👋
 
 ### Business Intelligence Analyst | Supply Chain Data Analyst
-📍 Southfield, MI, USA &nbsp;|&nbsp; 🟢 Open to Work &nbsp;|&nbsp; ✅ Work Authorized (OPT/STEM OPT)
+📍 Southfield, MI, USA &nbsp;|&nbsp; 🟢 Open to Work &nbsp;|&nbsp; ✅ Work Authorized (OPT)
 
 ---
 
