@@ -22,11 +22,12 @@ I hold an **MS in Business Data Analytics (GPA: 3.9)** from [Lawrence Technologi
 
 | Category | Tools |
 |---|---|
-| **BI & Visualization** | Power BI, DAX, Power Query, Tableau, Excel Dashboards, KPI Reporting |
-| **Data & Programming** | SQL (Server, MySQL, PostgreSQL), Python (Pandas, NumPy), SAS |
-| **Supply Chain** | S&OP, Demand Forecasting, Inventory Optimization, Procurement Analytics |
-| **Data Engineering** | ETL Pipelines, Data Modeling (Star Schema), ERP Reporting, Data Validation |
-| **Advanced Excel** | Power Pivot, VBA Macros, XLOOKUP, Pivot Tables, Reporting Automation |
+| **BI & Reporting** | Power BI, DAX, Tableau, KPI Dashboards, MIS Reporting, Executive Dashboards, Inventory Reporting, Data Storytelling |
+| **Data Analytics & Programming** | SQL (Joins, CTEs, Window Functions, Stored Procedures), Python (Pandas, NumPy, Scikit-learn), SAS, Data Cleaning, Data Matching, EDA, Statistical Analysis |
+| **Excel & Automation** | Advanced Excel, VLOOKUP, XLOOKUP, Pivot Tables, Conditional Formatting, Power Query (ETL), Power Pivot, VBA Macros, MS Forms, Power Automate |
+| **Supply Chain & Operations** | Forecasting, Demand Planning, Variance Analysis, SKU Management, Inventory Optimization, Procurement Analytics, Supplier Performance, S&OP/SIOP, Sales Analytics, Operations Analytics |
+| **ERP, Databases & Data Systems** | ERP Reporting, ERP Data Extraction, SAP-style ERP Operations, SQL Server, MySQL, PostgreSQL, CRM Data Management, Data Reconciliation, Data Validation, Data Quality Management |
+| **Data Engineering & Professional** | ETL Pipelines, Data Modeling (Star Schema), Data Warehousing, Stakeholder Management, Stakeholder Reporting, Business Requirements Gathering, Cross-Functional Collaboration, Root Cause Analysis, Agile, Git, AWS (Basic) |
 
 ---
 
