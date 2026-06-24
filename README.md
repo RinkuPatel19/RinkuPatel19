@@ -1,6 +1,6 @@
 # Hi, I'm Rinku Patel 👋
 
-### Business Intelligence Analyst | Supply Chain Data Analyst
+### Supply Chain Data Analyst | BI Analyst | Power BI | SQL | Forecasting
 📍 Southfield, MI, USA &nbsp;|&nbsp; 🟢 Open to Work &nbsp;|&nbsp; ✅ Work Authorized (OPT)
 
 ---
